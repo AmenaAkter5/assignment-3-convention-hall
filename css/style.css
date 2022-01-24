@@ -28,3 +28,21 @@ button {
     vertical-align: middle;
     text-align: center;
 }
+
+
+/* Toast */
+
+.position {
+    position: relative;
+}
+
+.top {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.text-purple {
+    color: rgb(128, 0, 128);
+}
+ 
