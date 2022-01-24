@@ -10,8 +10,21 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-/* Nav Bar */
+/* Carousel Slider*/
 
-.font-22{
-    font-size: 22px;
+button {
+    background-color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+    line-height: 1.5;
+    display: inline-block;
+}
+
+.button-link-1 {
+    text-decoration: none;
+    color: rgb(128, 0, 128);
+    font-size: 16px;
+    font-weight: 700;
+    vertical-align: middle;
+    text-align: center;
 }
