@@ -49,6 +49,29 @@ body {
 
 /* Package Area */
 
-.background {
-    background-image: linear-gradient(rgb(128, 0, 128));
+
+.package {
+    padding-top: 80px;
+}
+
+.icon-style {
+    size: 20px;
+    color: rgb(128, 0, 128);
+    border-radius: 15px;
+    background-color: rgba(144, 59, 184, 0.104);
+}
+
+.highlighted-icon-style {
+    size: 20px;
+    color: white;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.075);
+}
+
+.highlighted {
+    background-color: rgb(128, 0, 128);
+    border-radius: 26px;
+}
+.hot {
+    background-color:rgb(243, 38, 38);
 }
