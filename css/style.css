@@ -61,6 +61,23 @@ body {
     background-color: rgba(144, 59, 184, 0.104);
 }
 
+
+.common-button-2 {
+    background-color: rgb(128, 0, 128);
+    padding: 5px 20px;
+    border-radius: 5px;
+    line-height: 1.5;
+    display: inline-block;
+}
+
+.button-link-2 {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 700;
+    vertical-align: middle;
+    text-align: center;
+}
+
 .highlighted-icon-style {
     size: 20px;
     color: white;
@@ -75,3 +92,11 @@ body {
 .hot {
     background-color:rgb(243, 38, 38);
 }
+
+
+/* Subscribe-Area */
+
+.background-purple{
+    background-color: rgb(252, 237, 252);
+}
+
