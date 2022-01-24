@@ -12,7 +12,7 @@ body {
 
 /* Carousel Slider*/
 
-button {
+.common-button {
     background-color: white;
     padding: 5px 20px;
     border-radius: 5px;
@@ -46,3 +46,9 @@ button {
     color: rgb(128, 0, 128);
 }
  
+
+/* Package Area */
+
+.background {
+    background-image: linear-gradient(rgb(128, 0, 128));
+}
